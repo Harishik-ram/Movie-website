@@ -74,7 +74,7 @@ const BannerHome = () => {
                                         </Link>
                                     </div>
                                 </div>
-                                
+
                         </div>
                     )
                 })

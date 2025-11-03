@@ -11,7 +11,7 @@ const Header = () => {
     const removeSpace = location?.search?.slice(3)?.split("%20")?.join(" ")
     const [searchInput,setSearchInput] = useState(removeSpace)
     const navigate = useNavigate()
-   
+
     useEffect(()=>{
         if(searchInput){
             navigate(`/search?q=${searchInput}`)
@@ -29,7 +29,7 @@ const Header = () => {
                     <img
                         src={logo}
                         alt='logo'
-                        width={120} 
+                        className='h-12 w-auto'
                     />
                 </Link>
 
@@ -63,7 +63,7 @@ const Header = () => {
                     <div className='w-8 h-8 rounded-full overflow-hidden cursor-pointer active:scale-50 transition-all'>
                         <img
                             src={userIcon}
-                            width='w-ful h-full' 
+                            width='w-ful h-full'
                         />
                     </div>
                 </div>
