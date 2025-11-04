@@ -1,6 +1,6 @@
 Movie Website(moviear) :
 A modern and responsive movie discovery website built using React
-It fetches live movie data from The Moviwe Database(TMDB) API, featuring trending and popular films with a clean UI.
+It fetches live movie data from The Movie Database(TMDB) API, featuring trending and popular films with a clean UI.
 
 Key Features :
 
