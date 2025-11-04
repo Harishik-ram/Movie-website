@@ -12,5 +12,5 @@ Key Features :
 -  Fully responsive design for all screens
 -  Deployed on Netlify
 
-(https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112)
+<img width="1277" height="679" alt="Image" src="https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112" />
 
