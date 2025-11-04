@@ -12,4 +12,4 @@ Key Features :
 -  Fully responsive design for all screens
 -  Deployed on Netlify
 
--  "https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112"
+-  https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112
