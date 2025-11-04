@@ -12,23 +12,34 @@ Key Features :
 -  Fully responsive design for all screens
 -  Deployed on Netlify
 
-<img width="1277" height="679" alt="Image" src="https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112" />
+<br/>
 
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/b1a3a836-bedf-400d-b49c-1dccf952f112" />
+</p>
 
+<br/>
 
-<img width="1271" height="635" alt="Image" src="https://github.com/user-attachments/assets/36b9841c-64f4-4b34-b30b-b04818707109" />
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/36b9841c-64f4-4b34-b30b-b04818707109" />
+</p>
 
+<br/>
 
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/810f5a37-4b46-4697-b0cd-96fdf126895a" />
+</p>
 
-<img width="1277" height="606" alt="Image" src="https://github.com/user-attachments/assets/810f5a37-4b46-4697-b0cd-96fdf126895a" />
+<br/>
 
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/adb15bdd-c974-458c-a7a1-e641f13c1ee9" />
+</p>
 
+<br/>
 
-<img width="978" height="552" alt="Image" src="https://github.com/user-attachments/assets/adb15bdd-c974-458c-a7a1-e641f13c1ee9" />
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/637048f7-c95e-4eec-bff3-530d955f616f" />
+</p>
 
-
-
-<img width="1264" height="700" alt="Image" src="https://github.com/user-attachments/assets/637048f7-c95e-4eec-bff3-530d955f616f" />
-
-
-
+<br/>
